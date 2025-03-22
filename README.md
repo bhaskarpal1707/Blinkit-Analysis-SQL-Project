@@ -1,4 +1,5 @@
-!https://raw.githubusercontent.com/bhaskarpal1707/Blinkit-Analysis-SQL-Project/refs/heads/main/Blinkit-Image.webp
+![Blinkit Analysis](https://raw.githubusercontent.com/bhaskarpal1707/Blinkit-Analysis-SQL-Project/refs/heads/main/Blinkit-Image.webp)
+
 # Blinkit Analysis SQL Project  
 **Tool Used:** MySQL Workbench  
 
